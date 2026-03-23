@@ -1,0 +1,62 @@
+[
+  {
+    "CustomerID": 1,
+    "FullName": "Alice Johnson",
+    "Email": "alice@example.com",
+    "CreatedAt": "2024-01-01T10:00:00Z"
+  },
+  {
+    "CustomerID": 2,
+    "FullName": "  Bob Smith  ",
+    "Email": "bob@example.com",
+    "CreatedAt": "2024-01-02T12:30:00Z"
+  },
+  {
+    "CustomerID": 3,
+    "FullName": "Charlie Brown",
+    "Email": "CHARLIE@EXAMPLE.COM",
+    "CreatedAt": "2024-01-03T09:15:00Z"
+  },
+  {
+    "CustomerID": 4,
+    "FullName": "Daisy Ridley",
+    "Email": "",
+    "CreatedAt": "2024-01-04T08:00:00Z"
+  },
+  {
+    "CustomerID": 5,
+    "FullName": "Ethan Hunt",
+    "Email": null,
+    "CreatedAt": "2024-01-05T14:45:00Z"
+  },
+  {
+    "CustomerID": 6,
+    "FullName": "Frank Castle",
+    "Email": "frank.castle@example.com",
+    "CreatedAt": "2024-01-06T11:20:00Z"
+  },
+  {
+    "CustomerID": 7,
+    "FullName": "Grace Hopper",
+    "Email": "grace.hopper@example.com",
+    "CreatedAt": "2024-01-07T16:10:00Z"
+  },
+  {
+    "CustomerID": 8,
+    "FullName": "Henry Ford",
+    "Email": "henry.ford@example.com",
+    "CreatedAt": "2024-01-08T07:50:00Z"
+  },
+  {
+    "CustomerID": 9,
+    "FullName": "Isabella Garcia",
+    "Email": "isabella@example.com",
+    "CreatedAt": "2024-01-09T19:25:00Z"
+  },
+  {
+    "CustomerID": 10,
+    "FullName": "Jack Ryan",
+    "Email": "jack.ryan@example.com",
+    "CreatedAt": "2024-01-10T13:05:00Z"
+  }
+]
