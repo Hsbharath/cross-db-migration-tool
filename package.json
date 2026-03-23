@@ -1,0 +1,28 @@
+{
+  "name": "cross-db-migration",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "Cross-database migration tool in Node.js to migrate relational data from MSSQL to PostgreSQL.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "npm run test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "commander": "^14.0.3",
+    "dotenv": "^17.3.1",
+    "mssql": "^12.2.1",
+    "ora": "^9.3.0",
+    "pg": "^8.20.0",
+    "pino": "^10.3.1",
+    "retry": "^0.13.1",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

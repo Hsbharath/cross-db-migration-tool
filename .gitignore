@@ -1,0 +1,92 @@
+# =========================
+# Node.js
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build output (if added later)
+dist/
+build/
+coverage/
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.local
+.env.*.local
+
+# Keep example env
+!.env.example
+
+# =========================
+# Logs
+# =========================
+logs/
+*.log
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Docker
+# =========================
+# Ignore local docker overrides
+docker-compose.override.yml
+
+# Optional: ignore local volumes if created
+docker-data/
+*.db
+*.sqlite
+
+# =========================
+# Temporary files
+# =========================
+tmp/
+temp/
+.cache/
+
+# =========================
+# Testing
+# =========================
+coverage/
+.nyc_output/
+
+# =========================
+# Misc
+# =========================
+*.pid
+*.seed
+*.tgz
+
+# =========================
+# Database Dumps / Backups
+# =========================
+*.sql.gz
+*.dump
+*.bak
+
+# =========================
+# Optional: Ignore generated data files
+# =========================
+sample-data/*.generated.json
+
+# =========================
+# Optional: Mac/Linux artifacts
+# =========================
+*.out
+*.err
